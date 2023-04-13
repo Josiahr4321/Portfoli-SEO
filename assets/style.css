@@ -4,7 +4,9 @@
     font-family: sans-serif;
 }
 
-
+a{
+    color: black;
+}
 
 header {
     display:flex;
