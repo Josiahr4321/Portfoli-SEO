@@ -23,4 +23,5 @@ file:///C:/Users/dvs_j/OneDrive/Desktop/challenges/Portfoli-SEO/index.html
 ![image](https://user-images.githubusercontent.com/125624166/231806358-0e961615-c459-457f-a815-6a205790dd04.png)
 ![image](https://user-images.githubusercontent.com/125624166/231806440-eafa7567-753f-4b4b-a25e-c09a4e00b48e.png)
 ![image](https://user-images.githubusercontent.com/125624166/231807317-b82b938f-27a7-4c26-9ea5-79eaee022a33.png)
-![image](https://user-images.githubusercontent.com/125624166/231806599-69204f20-b34d-4de0-bbe4-ca770e9fcfc4.png)
+![image](https://user-images.githubusercontent.com/125624166/231807482-4146b5de-0662-4ffc-9619-b4006b87c666.png)
+
