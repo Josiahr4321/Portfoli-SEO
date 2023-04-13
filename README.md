@@ -17,6 +17,7 @@ There is alt tags for the images that allow people who are visually challenged t
 
 
 Link
+
 file:///C:/Users/dvs_j/OneDrive/Desktop/challenges/Portfoli-SEO/index.html
 
 ![image](https://user-images.githubusercontent.com/125624166/231806358-0e961615-c459-457f-a815-6a205790dd04.png)
