@@ -52,9 +52,13 @@ main section {
     padding: 5px;
     background-color: antiquewhite;
 }
-.content img {
-    width: 20%;
+#about-content img {
+    width: 50%;
+    height: 30vw;
     border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    display: flex;
     
 }
 #about-content {
