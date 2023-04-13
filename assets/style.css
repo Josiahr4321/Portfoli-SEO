@@ -1,0 +1,49 @@
+header {
+    display:flex;
+    justify-content: space-between;
+}
+.container {
+    border:1px solid black;
+    max-width: 1500px;
+    margin:0 auto
+}
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+header nav {
+    
+    width: 50%;
+}
+.subtitle {
+
+    width: 20vw;
+    text-align: center;
+    height: 100%;
+}
+main section {
+    min-height: 28vh;
+    display: flex;
+}
+.content {
+    border: 2px solid blue;
+    width: 80vw;
+    padding: 5px;
+}
+.content img {
+    width: 20%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+#about-content {
+    display: flex;
+}
+#about-content p {
+    width: 70%;
+    margin: 5px;
+}
+#work-content .row {
+    border: 2px solid pink;
+    min-height: 33%;
+}
