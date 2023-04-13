@@ -1,12 +1,20 @@
 # Portfolio-SEO
 This is my portfolio that I have made from scratch.
-I created my own HTML and CSS to give my portfolio a simple design
+
+I created my own HTML and CSS to give my portfolio a simple design.
+
 I will add more to it in the future as this is just a basic mock up.
+
 You will see a page that has links connected to the text in the nav.
+
 My images are also linked to the work that I have currently done.
+
 I have put in background colors inside the nav,border, and page.
+
 In the contact me section there is four ways to contact me if you ever need to.
+
 There is alt tags for the images that allow people who are visually challenged to know what the image is.
+
 
 Link
 file:///C:/Users/dvs_j/OneDrive/Desktop/challenges/Portfoli-SEO/index.html
