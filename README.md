@@ -22,6 +22,6 @@ https://josiahr4321.github.io/Portfolio-SEO/
 
 ![image](https://user-images.githubusercontent.com/125624166/231806358-0e961615-c459-457f-a815-6a205790dd04.png)
 ![image](https://user-images.githubusercontent.com/125624166/231806440-eafa7567-753f-4b4b-a25e-c09a4e00b48e.png)
-![image](https://github.com/Josiahr4321/Portfolio-SEO/assets/125624166/b0fb514a-1382-4b31-a98e-c6f32e2d4349)
+![image](https://github.com/Josiahr4321/Portfolio-SEO/assets/125624166/1e51ef9d-2e8d-431e-9417-592665d6dbba)
 ![image](https://user-images.githubusercontent.com/125624166/231807482-4146b5de-0662-4ffc-9619-b4006b87c666.png)
 
